@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Text Converter</string>
+    <string name="hello">Welcome to the text converter</string>
+    <string name="convert">Convert text</string>
+    <string name="txtHint">Text to convert</string>
+    <string name="back">Back</string>
+    <string name="choose">Choose output type</string>
+    <string name="textConverted">Converted text</string>
+    <string name="optASCII">ASCII</string>
+    <string name="optRP">Radio Phonetics</string>
+    <string name="optMorse">Morse Code</string>
+    <string name="optTxtSpeak">Text Speak</string>
+    <string name="selectTypes">Select</string>
+    <string name="noOutType">No output type selected.</string>
+    <string name="outTypeChosen">Output type selected.</string>
+    <string name="callNum">Click to call 021&#8211;0000001</string>
+    <string name="exitApp">Click to exit app</string>
+    <string name="removeAlert">Click to remove alert</string>
+    <string name="selectType">Click to select output type</string>
+    <string name="historyDate">Date:</string>
+    <string name="historyType">Type:</string>
+    <string name="historyOrigMsg">Original Text:</string>
+    <string name="historyConvMsg">Converted Text:</string>
+    <string name="recentConversions">Recent conversions</string>
+</resources>

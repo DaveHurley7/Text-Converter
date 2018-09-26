@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Spanish-->
+    <string name="app_name">Convertidor de texto</string>
+    <string name="hello">Bienvenido al convertidor de texto</string>
+    <string name="convert">Convertir texto</string>
+    <string name="txtHint">Texto para convertir</string>
+    <string name="back">Regresar</string>
+    <string name="choose">Elija el tipo de salida</string>
+    <string name="textConverted">Texto convertido</string>
+    <string name="optASCII">ASCII</string>
+    <string name="optRP">Fon&#x00E9;tica de radio</string>
+    <string name="optMorse">C&#x00F3;digo Morse</string>
+    <string name="optTxtSpeak">Idioma de Texto</string>
+    <string name="selectTypes">Seleccionar</string>
+    <string name="noOutType">No se seleccion&#x00F3; ning&#x00FA;n tipo de salida.</string>
+    <string name="outTypeChosen">Tipo de salida seleccionado.</string>
+    <string name="callNum">Haz clic para llamar 021&#8211;0000001</string>
+    <string name="exitApp">Haz clic para salir de la aplicación</string>
+    <string name="removeAlert">Haz clic para eliminar la alerta</string>
+    <string name="selectType">Haga clic para seleccionar el tipo de salida</string>
+    <string name="historyDate">Fecha:</string>
+    <string name="historyType">Tipo:</string>
+    <string name="historyOrigMsg">Texto original:</string>
+    <string name="historyConvMsg">Texto convertido:</string>
+    <string name="recentConversions">Conversiones recientes</string>
+</resources>
